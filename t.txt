@@ -1,0 +1,25 @@
+total 6472
+-rw-r--r--  1 briangrenier  staff     603 Sep 21 15:22 JobQueue.cc
+-rw-r--r--  1 briangrenier  staff     338 Sep 21 15:24 JobQueue.h
+-rw-r--r--  1 briangrenier  staff  630040 Sep 26 23:28 JobQueue.o
+-rw-r--r--  1 briangrenier  staff     729 Sep 21 15:12 Makefile
+-rw-r--r--  1 briangrenier  staff      48 Sep 27 13:54 README.md
+-rw-r--r--  1 briangrenier  staff     907 Sep 27 13:41 builtinjobs.cc
+-rw-r--r--  1 briangrenier  staff     187 Sep 22 16:56 builtinjobs.h
+-rw-r--r--  1 briangrenier  staff  163668 Sep 27 13:41 builtinjobs.o
+-rw-r--r--  1 briangrenier  staff       0 Sep 27 13:54 butts.txt
+-rwxr-xr-x  1 briangrenier  staff  672600 Sep 27 18:45 dragonshell
+-rwxr-xr-x  1 briangrenier  staff     946 Sep 27 13:45 dragonshell.cc
+-rw-r--r--  1 briangrenier  staff  420844 Sep 27 13:47 dragonshell.o
+-rw-r--r--  1 briangrenier  staff     548 Sep 25 10:01 dshellconstants.h
+-rw-r--r--  1 briangrenier  staff    2024 Sep 26 22:59 dshellhelpers.cc
+-rw-r--r--  1 briangrenier  staff     646 Sep 25 13:05 dshellhelpers.h
+-rw-r--r--  1 briangrenier  staff  453532 Sep 26 23:28 dshellhelpers.o
+-rw-r--r--  1 briangrenier  staff    6382 Sep 27 18:44 dshelljob.cc
+-rw-r--r--  1 briangrenier  staff    1196 Sep 26 23:28 dshelljob.h
+-rw-r--r--  1 briangrenier  staff  741460 Sep 27 18:45 dshelljob.o
+-rw-r--r--  1 briangrenier  staff     159 Sep 20 11:17 dshelltypes.h
+-rw-------  1 briangrenier  staff       0 Sep 27 18:53 t.txt
+-rw-r--r--  1 briangrenier  staff     678 Sep 21 13:41 tokenize.cc
+-rw-r--r--  1 briangrenier  staff     115 Sep 21 14:42 tokenize.h
+-rw-r--r--  1 briangrenier  staff  154548 Sep 23 20:07 tokenize.o
